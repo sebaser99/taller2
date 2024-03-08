@@ -1,0 +1,1 @@
+Este archivo indica cómo usar el index.html
